@@ -1035,7 +1035,7 @@ public class StatefulImageTests {
             tm.ok("No compute services in this cloud");
         }
     }
-
+/*
     @Test
     public void bundleVMAsync() throws Throwable {
         assumeTrue(!tm.isTestSkipped());
@@ -1163,4 +1163,5 @@ public class StatefulImageTests {
             tm.ok("No compute services in this cloud");
         }
     }
+*/
 }
